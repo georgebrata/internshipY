@@ -1,0 +1,4 @@
+microblog/flask
+.git
+app/__pycache__/*.pyc
+*.pyc
