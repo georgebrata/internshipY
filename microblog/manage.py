@@ -1,4 +1,4 @@
-from db_manage import HelloW,Create,Upgrade,Downgrade,Migrate
+from db_manage import Create,Upgrade,Downgrade,Migrate
 from flask.ext.script import Manager
 from app import app
 
