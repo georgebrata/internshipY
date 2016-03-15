@@ -1,0 +1,8 @@
+microblog/flask
+.git
+app/__pycache__/*.pyc
+*.pyc
+.idea
+app/__pycache__
+*.db
+db_repository
